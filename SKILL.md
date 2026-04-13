@@ -14,6 +14,7 @@ It automates the process of: Raw Reply -> Verification Planning -> Forced Execut
 
 ## Auto-Registration
 - When installing via `setup.sh`, the system outputs a registration hook `[REGISTER_LOR_SKILL]` that ensures the agent remembers LoR is enabled.
+- **Memory Storage**: Upon installation or verification, this skill should be recorded in `MEMORY.md`.
 
 ## Safety Constraints
 - Require user confirmation for destructive operations (`exec`, `write`, `edit`).
