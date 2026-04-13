@@ -7,6 +7,6 @@
     "test": "node tests/test_lor.js"
   },
   "keywords": ["openclaw", "lor", "verification", "engineering"],
-  "author": "uwe77",
+  "author": "uwe77 <https://github.com/uwe77>",
   "license": "MIT"
 }
