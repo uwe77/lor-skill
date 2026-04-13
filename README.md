@@ -14,4 +14,4 @@ Run the setup script to initialize:
 - `SKILL.md`: Skill definition and configuration.
 
 ## Usage
-`@LumiVeda /lor [task]` to trigger the verification loop.
+`@[AgentName] /lor [task]` to trigger the verification loop.

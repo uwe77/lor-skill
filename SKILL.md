@@ -6,7 +6,7 @@ It automates the process of: Raw Reply -> Verification Planning -> Forced Execut
 
 ## Usage
 - Auto-triggered on complex tasks (coding, architecture, complex planning).
-- Explicit trigger via `/lor [task]` or `@LumiVeda /lor [task]`.
+- Explicit trigger via `/lor [task]` or `@[AgentName] /lor [task]`.
 
 ## Requirements
 - Node.js (for verification engine)
