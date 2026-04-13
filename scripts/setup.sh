@@ -1,6 +1,9 @@
 #!/bin/bash
 # LoR (Loop of Resilience) Setup Script
 
+# 切換到腳本所在的目錄的父目錄
+cd "$(dirname "$0")/.."
+
 TARGET_DIR="$HOME/.openclaw/skills/lor"
 
 echo "🔧 Installing LoR System to $TARGET_DIR..."
