@@ -12,6 +12,9 @@ It automates the process of: Raw Reply -> Verification Planning -> Forced Execut
 - Node.js (for verification engine)
 - OpenClaw environment
 
+## Auto-Registration
+- When installing via `setup.sh`, the system outputs a registration hook `[REGISTER_LOR_SKILL]` that ensures the agent remembers LoR is enabled.
+
 ## Safety Constraints
 - Require user confirmation for destructive operations (`exec`, `write`, `edit`).
 - Read-only operations (`read`, `search`) execute automatically.
