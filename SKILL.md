@@ -4,6 +4,7 @@
 - **Name**: LoR (Loop of Resilience)
 - **Category**: Engineering, Verification, Agent Reliability
 - **Description**: A modular 5-step engineering verification loop for complex tasks (Raw Reply -> Verification Planning -> Forced Execution -> Result Checking -> Final Output).
+- **Repository**: https://github.com/lumi77-mac/lor-skill
 
 ## Usage
 - Auto-triggered on complex tasks (coding, architecture, complex planning).

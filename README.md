@@ -1,6 +1,6 @@
 # LoR (Loop of Resilience)
 
-A verification system for OpenClaw. 
+A robust, modular verification system for OpenClaw. 
 
 The LoR system forces the agent into a 5-step diagnostic process, ensuring high-quality outputs for complex tasks and preventing hallucinations through automated verification.
 
@@ -13,8 +13,14 @@ lor-skill/
 └── package.json     # Node.js dependencies
 ```
 
+## GitHub Repository
+- [https://github.com/lumi77-mac/lor-skill](https://github.com/lumi77-mac/lor-skill)
+
 ## Installation
-1. Clone this repository into your `skills/` directory.
+1. Clone this repository into your `skills/` directory:
+   ```bash
+   git clone https://github.com/lumi77-mac/lor-skill.git
+   ```
 2. Run the setup script:
    ```bash
    ./scripts/setup.sh
