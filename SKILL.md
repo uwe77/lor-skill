@@ -4,9 +4,13 @@
 A modular 5-step engineering verification loop for complex tasks. 
 It automates the process of: Raw Reply -> Verification Planning -> Forced Execution -> Result Checking -> Final Output.
 
-## Triggering
+## Usage
 - Auto-triggered on complex tasks (coding, architecture, complex planning).
 - Explicit trigger via `/lor [task]` or `@LumiVeda /lor [task]`.
+
+## Requirements
+- Node.js (for verification engine)
+- OpenClaw environment
 
 ## Safety Constraints
 - Require user confirmation for destructive operations (`exec`, `write`, `edit`).
